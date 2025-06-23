@@ -1,0 +1,65 @@
+{
+  "themes": [
+    {
+      "id": "halo",
+      "name": "Halo",
+      "description": "A futuristic theme inspired by the Halo aesthetic.",
+      "author": "megasoft2020",
+      "version": "1.0.0",
+      "icons": [
+        "Halo/camera.png",
+        "Halo/contacts.png",
+        "Halo/music.png",
+        "Halo/phone.png",
+        "Halo/radio.png",
+        "Halo/settings.png",
+        "Halo/videos.png"
+      ],
+      "previews": [
+        "Halo/preview1.jpg",
+        "Halo/preview2.jpg",
+        "Halo/preview3.jpg"
+      ],
+      "wallpaper": "Halo/wallpaper.jpg"
+    },
+    {
+      "id": "mecha",
+      "name": "Mecha",
+      "description": "A high-contrast, robotic-themed color scheme.",
+      "author": "megasoft2020",
+      "version": "1.0.0",
+      "icons": [
+        "Mecha/camera.png",
+        "Mecha/gallery.png",
+        "Mecha/phone.png",
+        "Mecha/radio.png"
+      ],
+      "previews": [
+        "Mecha/preview1.jpg",
+        "Mecha/preview 2.jpg",
+        "Mecha/preview3.jpg"
+      ],
+      "wallpaper": "Mecha/wallpaper.jpg"
+    },
+    {
+      "id": "noirluxe",
+      "name": "Noir Luxe",
+      "description": "A sleek, luxury black theme with subtle color accents.",
+      "author": "megasoft2020",
+      "version": "1.0.0",
+      "icons": [
+        "NoirLuxe/camera.png",
+        "NoirLuxe/gallery.png",
+        "NoirLuxe/phone.png",
+        "NoirLuxe/radio.png",
+        "NoirLuxe/videos.png"
+      ],
+      "previews": [
+        "NoirLuxe/preview1.jpg",
+        "NoirLuxe/preview2.jpg",
+        "NoirLuxe/preview3.jpg"
+      ],
+      "wallpaper": "NoirLuxe/wallpaper.jpg"
+    }
+  ]
+}
